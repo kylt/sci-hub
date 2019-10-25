@@ -1,4 +1,4 @@
-2019-10-25更新
+2019-10-25更新</br>
 8、输入想要进的网站，点击“GO”，如果打不开，请反馈。
 网址1：https://muabl.github.io/jsproxy/
 网址2：https://he949389.github.io/jsproxy/ 
